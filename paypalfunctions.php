@@ -15,9 +15,9 @@
 	//' Replace <API_PASSWORD> with your API Password
 	//' Replace <API_SIGNATURE> with your Signature
 	//'------------------------------------
-	$API_UserName="prita2312-seller_api1.live.in";
-	$API_Password="PN6M5RTCYWCD979N";
-	$API_Signature="AtoEOV0oflGjszBV.iqsSauQ2wmgAMkmGW5JQp06VnF4flIyqQeSlmqg";
+	$API_UserName="<API_USERNAME>";
+	$API_Password="<API_PASSWORD>";
+	$API_Signature="<API_SIGNATURE>";
 
 	// BN Code 	is only applicable for partners
 	$sBNCode = "PP-ECWizard";
