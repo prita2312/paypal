@@ -7,7 +7,7 @@
 <body>
 	<h2 align="center">Service subscription details</h2>
 
-	<form action='http://www.priya.4rog.in/expresscheckout.php' METHOD='POST'>
+	<form action='http://priya.4rog.in/expresscheckout.php' METHOD='POST'>
 		<table>
 			<tbody>
 				<tr>

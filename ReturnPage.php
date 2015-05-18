@@ -93,6 +93,6 @@ if ( $token != "" )
     </tbody>
 </table>
 
-<form action='http://www.priya.4rog.in/MainPage.php' METHOD='POST'>
-    <input type="submit" value="Return to main page"/>
+<form action='http://priya.4rog.in/OrderConfirmPage.php' METHOD='POST'>
+    <input type="submit" value="Confirm"/>
 </form>

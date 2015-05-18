@@ -29,7 +29,7 @@ $paymentType = "Sale";
 //'
 //' This is set to the value entered on the Integration Assistant 
 //'------------------------------------
-$returnURL = "http://www.priya.4rog.in/ReturnPage.php";
+$returnURL = "http://priya.4rog.in/ReturnPage.php";
 
 //'------------------------------------
 //' The cancelURL is the location buyers are sent to when they hit the
@@ -37,7 +37,7 @@ $returnURL = "http://www.priya.4rog.in/ReturnPage.php";
 //'
 //' This is set to the value entered on the Integration Assistant 
 //'------------------------------------
-$cancelURL = "http://www.priya.4rog.in/MainPage.php";
+$cancelURL = "http://priya.4rog.in/MainPage.php";
 
 //'------------------------------------
 //' Calls the SetExpressCheckout API call
